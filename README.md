@@ -66,8 +66,16 @@ Please make sure to update tests as appropriate.
 #### How to Generate Random Numbers in Python
 ##### https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
 ##### https://realpython.com/python-random/
-#### [1] The Python Tutorial
+#### [2]. Generate all permutations of a list in Python
+##### https://www.w3resource.com/python-exercises/list/python-data-type-list-exercise-18.php
+#### Permutations and Combinations using Python
+##### https://www.askpython.com/python/permutations-and-combinations-using-python
+#### [3]. Distributions
+##### https://data-flair.training/blogs/python-probability-distributions/
+##### https://docs.scipy.org/doc/scipy/reference/tutorial/stats.html
+#### [4] The Python Tutorial
 ##### https://docs.python.org/3/tutorial/
+
 
 
 ## License
