@@ -1,4 +1,5 @@
 # Programming for Data Analysis
+#### By Thierno Aziz Diallo G00265250
 
 The following assignment concerns the numpy.random package in Python
 
