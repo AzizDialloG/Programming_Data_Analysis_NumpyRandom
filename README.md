@@ -61,8 +61,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 ## Reference:
-### [1] The Python Tutorial
-#### https://docs.python.org/3/tutorial/
+#### [1] The Python Tutorial
+##### https://docs.python.org/3/tutorial/
 
 
 ## License
