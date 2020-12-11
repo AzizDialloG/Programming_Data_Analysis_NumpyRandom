@@ -61,6 +61,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 ## Reference:
+#### [1]. Random Numbers in NumPy
+##### https://www.w3schools.com/python/numpy_random.asp
+#### How to Generate Random Numbers in Python
+##### https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
+##### https://realpython.com/python-random/
 #### [1] The Python Tutorial
 ##### https://docs.python.org/3/tutorial/
 
